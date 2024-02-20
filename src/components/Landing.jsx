@@ -239,7 +239,7 @@ export default function Landing() {
                 </p>
               </div>
             </div>
-            <div className="flex flex-auto">
+            <div className="flex flex-wrap">
               <div className="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
                 <div className="px-6">
                   <div className="pt-6 text-center">
