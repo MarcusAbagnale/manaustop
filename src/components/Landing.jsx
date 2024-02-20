@@ -225,7 +225,7 @@ export default function Landing() {
           </div>
         </section>
 
-        <section className="pt-20 pb-48  bg-gray-100">
+        <section className="pt-20 pb-48  bg-gray-300">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center text-center mb-24">
               <div className="w-full lg:w-6/12 px-4">
